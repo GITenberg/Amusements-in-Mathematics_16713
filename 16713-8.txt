@@ -14493,8 +14493,8 @@ other line, but more than two lines do not cross at the same point
 anywhere. There are other ways of making the cuts, but this rule must
 always be observed if we are to get the full number of pieces.
 
-The general formula is that with n cuts we can always produce (n(n +
-1) + 1)/2 . One of the problems proposed by the late Sam Loyd was to
+The general formula is that with n cuts we can always produce
+((n(n+1))/2)+1 . One of the problems proposed by the late Sam Loyd was to
 produce the maximum number of pieces by n straight cuts through a
 solid cheese. Of course, again, the pieces cut off may not be moved or
 piled. Here we have to deal with the intersection of planes (instead
